@@ -3,7 +3,7 @@ File: plcscan.py
 Desc: PLC scanner
 Version: 0.1
 
-Copyright (c) 2012 Dmitry Efanov (Positive Research)
+Copyright (c) 2012 Dmitry Efanov (Positive Research
 """
 
 __author__ = 'defanov'
